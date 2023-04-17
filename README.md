@@ -4,10 +4,12 @@ This repository contains a Python script that uses tkinter and matplotlib to cre
 (example)
 
 GUI :
+
 ![image](https://user-images.githubusercontent.com/11579758/232395441-c345c94b-830f-4832-9028-d04cf1372cc6.png)
 
-'''
+```
 Log :
+
 // ******************** //
 // ****** Start ******* //
 // ******************** //
@@ -48,4 +50,4 @@ Loop # 2 X_cur = X =  210
 Loop # 3 X_cur = X =  410
          dashed Line Horizonal:  ( 210 , 200 ) ->  ( 410 , 200 )
          dashed Line Verical:  ( 410 , 200 ) ->  ( 410 , 300.0 )
-'''
+```
