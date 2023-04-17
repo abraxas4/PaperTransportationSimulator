@@ -4,7 +4,8 @@ This repository contains a Python script that uses tkinter and matplotlib to cre
 (example)
 
 GUI :
-![image](https://user-images.githubusercontent.com/11579758/232395215-ab639ad6-e2bc-484d-8ca5-f2a81485b308.png)
+![image](https://user-images.githubusercontent.com/11579758/232395441-c345c94b-830f-4832-9028-d04cf1372cc6.png)
+
 
 Log :
 // ******************** //
